@@ -30,6 +30,13 @@ by the makefile. You should edit the Makefile samples path to the location of yo
 
 ### To compile and run the code
 
+Edit the Makefile to point at the correct directories for:
+- Samples
+- FastJet lib and include
+- FJContrib lib
+
+Then type:
+
 make && ./HHH4b
 
 This runs the analysis code for all the analyses specified in ./src/HHH4b.cc.
