@@ -1,0 +1,6 @@
+runname=Sherpa_6b_100TeV
+sub_samplesize=3E6
+npileup=0
+jetEsmear=5
+pythiaShower=1
+runseed=32874627

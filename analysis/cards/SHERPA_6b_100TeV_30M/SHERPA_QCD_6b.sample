@@ -1,0 +1,7 @@
+eventfile=SAMPLES/SHERPA_QCD_6b_100TeV_30M.hepmc
+samplename=SHERPA_QCD_6b_100TeV
+signal=0
+format=HEPMC
+nevt_sample=29999688
+xsec_norm=1.6
+sqrts=100000

@@ -1,0 +1,8 @@
+eventfile=SAMPLES/HHH6b_100TeV_1M.lhe
+samplename=triHiggs_1M
+signal=1
+format=LHE
+nevt_sample=1E6
+// K factor of 1.766 with 0.57^3 B.R in order to rescale to 5.09*0.57^3=0.9426
+xsec_norm=0.3269
+sqrts=14000
